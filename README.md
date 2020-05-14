@@ -1,4 +1,4 @@
-# calculate_tip
+# calculate-tip
 
 Starter code to practice using Pytest. 
 
